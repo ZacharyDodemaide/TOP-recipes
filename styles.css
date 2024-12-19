@@ -1,0 +1,31 @@
+.heading2 {
+    font-size: 22px;
+    text-align: center;
+    font-family: 'Arial';
+    color: brown;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+h2 {
+    color: rgb(17, 17, 130);
+}
+
+h3 {
+    color: rgb(26, 26, 179);
+}
+
+h1 h2 h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {font-weight: bold;
+    font-family: Arial;}
+
+ol {font-weight: lighter;
+    font-family: Helvetica}
+
+ul,ol {font-size: 16px;}
