@@ -1,31 +1,22 @@
-.heading2 {
-    font-size: 22px;
-    text-align: center;
-    font-family: 'Arial';
-    color: brown;
-}
 
-h1 {
-    color: rgb(255, 255, 255);
-    background-color: black;
+
+.morning,.evening,.desert {
+    background-color: cadetblue;
+    border: 1px solid rgb(91, 55, 0);
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
 }
 
 h2 {
-    color: rgb(17, 17, 130);
+    text-align: left;
+    color: antiquewhite;}
+
+.recipe_box a {
+    padding: 5px;
+    display: inline-block;
+    width: 600px;
+    background-color: rgb(80, 136, 137);
+    color: antiquewhite;
+
 }
-
-h3 {
-    color: rgb(26, 26, 179);
-}
-
-h1 h2 h3 {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-ul {font-weight: bold;
-    font-family: Arial;}
-
-ol {font-weight: lighter;
-    font-family: Helvetica}
-
-ul,ol {font-size: 16px;}
